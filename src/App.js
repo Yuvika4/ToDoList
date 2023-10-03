@@ -73,7 +73,7 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/yuvika-856524271" rel="noreferrer" target="_blank"><SiLinkedin size={25}/></a>
         </p>
         <p>
-            <a href="https://yuvika4.github.io/ToDo_List/" rel="noreferrer" target="_blank" className="source">$Source | 2023 - 2024</a> 
+            <a href="https://yuvika4.github.io/ToDoList/" rel="noreferrer" target="_blank" className="source">$Source | 2023 - 2024</a> 
         </p> 
         
     </>
